@@ -10,6 +10,17 @@ body,h1,h2,h3,h4,h5,h6{font-family:Source Sans Pro, Helvetica Neue,Helvetica,san
   outline:none;
 }
 
+.math-block {
+  padding: 6px;
+  border-left: 3px solid #eee;
+  color: #444;
+}
+
+blockquote {
+  font-size: 16px;
+  color: #444;
+}
+
 #root .ace-github .ace_marker-layer .ace_active-line {
     background: #F7FAFC;
 }

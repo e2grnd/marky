@@ -1,6 +1,7 @@
 import 'highlight.js/styles/github.css'
 import 'normalize.css/normalize.css'
 import './style.css'
+import 'katex/dist/katex.min.css'
 import RedBox from 'redbox-react'
 import React from 'react'
 import ReactDOM from 'react-dom'
